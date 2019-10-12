@@ -10,6 +10,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
-        System.out.println("g,ei,bsrb");
+        System.out.println("g,ei,bsrbny");
     }
 }
