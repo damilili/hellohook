@@ -10,6 +10,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
-        System.out.println("g,aga,56165");
+        System.out.println("g,aga,5616fe5");
     }
 }
